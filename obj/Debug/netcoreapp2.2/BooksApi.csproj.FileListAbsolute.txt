@@ -1,0 +1,14 @@
+C:\projetos\dotnet_mongo\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csprojAssemblyReference.cache
+C:\projetos\dotnet_mongo\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csproj.CoreCompileInputs.cache
+C:\projetos\dotnet_mongo\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cache
+C:\projetos\dotnet_mongo\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cs
+C:\projetos\dotnet_mongo\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfoInputs.cache
+C:\projetos\dotnet_mongo\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfo.cs
+C:\projetos\dotnet_mongo\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.deps.json
+C:\projetos\dotnet_mongo\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.json
+C:\projetos\dotnet_mongo\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.dev.json
+C:\projetos\dotnet_mongo\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.dll
+C:\projetos\dotnet_mongo\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.pdb
+C:\projetos\dotnet_mongo\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorTargetAssemblyInfo.cache
+C:\projetos\dotnet_mongo\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.dll
+C:\projetos\dotnet_mongo\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.pdb
